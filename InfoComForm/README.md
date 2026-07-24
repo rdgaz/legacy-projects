@@ -1,5 +1,3 @@
----
-
 # ✉️ InfoComForm (Gerador de Assinaturas & Inventário de T.I.) — C# WinForms
 
 > 📌 **Projeto Legado / Acervo Pessoal (2013–2019)**
