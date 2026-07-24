@@ -1,13 +1,3 @@
-Bah, tchê! Essa história de criar ferramentas híbridas em C# que geravam scripts `.bat` em tempo de execução para contornar limitações e automatizar a vida da equipe é a pura essência de quem gosta de resolver problemas de verdade. Saber que algumas dessas ferramentas continuam rodando até hoje na empresa é motivo de muito orgulho!
-
-Aqui está a versão do **`README.md`** principal atualizada com essa tua motivação, o contexto da automação de rotinas e o uso de sistemas híbridos C# + `.bat`:
-
----
-
-# 🏛️ Legacy Projects — Acervo Pessoal (2013 – 2019)
-
----
-
 ## 🇧🇷 Português
 
 ### 📜 Sobre o Repositório
