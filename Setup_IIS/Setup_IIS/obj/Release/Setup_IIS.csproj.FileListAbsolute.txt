@@ -1,0 +1,13 @@
+C:\Users\r.souza\Google Drive\Projetos\C#_vbs\Setup_IIS\Setup_IIS\bin\Release\Setup_IIS.exe
+C:\Users\r.souza\Google Drive\Projetos\C#_vbs\Setup_IIS\Setup_IIS\bin\Release\Setup_IIS.pdb
+C:\Users\r.souza\Google Drive\Projetos\C#_vbs\Setup_IIS\Setup_IIS\obj\Release\Setup_IIS.Properties.Resources.resources
+C:\Users\r.souza\Google Drive\Projetos\C#_vbs\Setup_IIS\Setup_IIS\obj\Release\Setup_IIS.csproj.GenerateResource.Cache
+C:\Users\r.souza\Google Drive\Projetos\C#_vbs\Setup_IIS\Setup_IIS\obj\Release\Setup_IIS.exe
+C:\Users\r.souza\Google Drive\Projetos\C#_vbs\Setup_IIS\Setup_IIS\obj\Release\Setup_IIS.pdb
+C:\Users\r.souza\Google Drive\Projetos\C#_vbs\Setup_IIS\Setup_IIS\bin\Release\Setup_IIS.exe.config
+C:\Users\r.souza\Google Drive\Projetos\C#_vbs\Setup_IIS\Setup_IIS\obj\Release\Setup_IIS.FormAddSite.resources
+C:\Users\r.souza\Google Drive\Projetos\C#_vbs\Setup_IIS\Setup_IIS\bin\Release\System.Shim.dll
+C:\Users\r.souza\Google Drive\Projetos\C#_vbs\Setup_IIS\Setup_IIS\obj\Release\Setup_IIS.csprojResolveAssemblyReference.cache
+C:\Users\r.souza\Google Drive\HerancaHtml\Projetos\C#_vbs\Setup_IIS\Setup_IIS\bin\Release\Setup_IIS.exe.config
+C:\Users\r.souza\Google Drive\HerancaHtml\Projetos\C#_vbs\Setup_IIS\Setup_IIS\obj\Release\Setup_IIS.exe
+C:\Users\r.souza\Google Drive\HerancaHtml\Projetos\C#_vbs\Setup_IIS\Setup_IIS\obj\Release\Setup_IIS.pdb

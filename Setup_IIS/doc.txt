@@ -1,0 +1,9 @@
+Validação da porta
+
+A porta não é válida,o número da porta deve
+estar no intervalo de 0 a 65535
+
+---------------------------------------------------
+
+
+
