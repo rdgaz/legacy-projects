@@ -1,9 +1,3 @@
-Bah, em 2014! Há mais de uma década atrás encarar essa maratona de dias em claro no braço deve ter sido um baita aprendizado. Registrar esse ano e essa história no teu repositório de legados deixa o projeto ainda mais rico!
-
-Aqui está o texto formatado para o teu **`README.md`**, primeiro em português e logo abaixo a versão em inglês:
-
----
-
 # 🎮 Jogo da Velha (Tic-Tac-Toe) — C# (.NET Framework 3.5)
 
 > 📌 **Projeto Legado / Acervo Pessoal (2014)**
