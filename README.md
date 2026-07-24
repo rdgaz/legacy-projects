@@ -1,120 +1,45 @@
-# 🏛️ Legacy Projects
+Bah, em 2014! Há mais de uma década atrás encarar essa maratona de dias em claro no braço deve ter sido um baita aprendizado. Registrar esse ano e essa história no teu repositório de legados deixa o projeto ainda mais rico!
 
-A curated collection of projects developed between **2006-2016** — significant milestones in my journey as a developer, long before the era of generative AI.
-
-> **"These projects were built with creativity, dedication, and manual research. There was no Stack Overflow, no GitHub Copilot, no ChatGPT. Only documentation, forums, and lots of debugging."**
+Aqui está o texto formatado para o teu **`README.md`**, primeiro em português e logo abaixo a versão em inglês:
 
 ---
 
-## 📚 About This Repository
+# 🎮 Jogo da Velha (Tic-Tac-Toe) — C# (.NET Framework 3.5)
 
-This repository preserves old projects that I'm proud to have developed when:
-- 🔍 Documentation was limited and fragmented
-- 📖 Research meant reading entire tutorials or academic papers
-- 💻 Stack Overflow had far fewer answers
-- 🤖 Generative AI didn't exist
-- 🧠 Everything was solved with creativity, debugging, and persistence
-
-Each project includes:
-- Historical context
-- Technologies used
-- Technical challenges faced
-- Lessons learned
+> 📌 **Projeto Legado / Acervo Pessoal (2014)**
+> *Reencontrado em um pendrive antigo! O primeiro passo da minha jornada: construído do zero em 2014, sem documentação, sem IA e com dias em claro.*
 
 ---
 
-## 📂 Projects
+## 🇧🇷 Português
 
-### 🎮 Tic-Tac-Toe / Jogo da Velha (Early 2010s)
+### 📜 Sobre o Projeto
 
-**Period:** Early development era
-**Tech Stack:** C# • .NET Framework • Windows Forms (WinForms)
-**Status:** Complete & Preserved
-**Location:** `/JogoDaVelha/`
+Este projeto é um **Jogo da Velha em C#**, desenvolvido em **2014** sobre o clássico **.NET Framework 3.5**.
 
-#### Description
-A fully functional Tic-Tac-Toe game built in C# using Windows Forms. This project was developed 100% from scratch with zero documentation lookups, no AI assistance, and no external code references—only manual problem-solving and debugging. The game features a complete 3×3 button grid UI, turn-based X/O gameplay, and hand-coded win-condition detection for all 8 possible winning lines.
+Recentemente reencontrei este código perdido em um pendrive antigo e fiz questão de resgatá-lo. Ele marca um momento muito especial na minha trajetória como desenvolvedor: foi o meu primeiro jogo, feito **100% no braço**, sem ajuda de documentação, fóruns ou ferramentas de IA. Foram dias e noites em claro dedicados exclusivamente a entender a lógica, ajustar a interface e fazer tudo funcionar na raça.
 
-#### Technical Challenges
-- **Win-condition algorithm:** Manually coded all 8 line checks (3 horizontal, 3 vertical, 2 diagonal) without loops or board abstractions
-- **UI/Logic coupling:** Learned early-stage WinForms patterns with tightly coupled game state and button controls
-- **Event handling:** Hours of hands-on debugging to get button click events, state switching, and UI updates working correctly
-- **Application lifecycle:** Implemented game reset via `Application.Restart()` for new games and draw detection
+Embora o código reflita a minha fase inicial — com uma estrutura simples, estilo legado e poluído, sem as refatorações modernas —, ele cumpre perfeitamente o seu papel e **funciona de ponta a ponta**.
 
-#### Key Learnings
-- **Problem-solving from first principles:** Built game logic without referencing existing implementations
-- **Trial-by-fire debugging:** Raw hands-on experience with .NET event model and UI responsiveness
-- **Design simplicity vs. maintainability:** Direct button control approach works but showed early lessons in separation of concerns
-- **Pure logic under pressure:** Win-detection logic solved 100% independently, demonstrating grit and persistence
-
-#### Files
-- `JogoDaVelha/JogoDaVelha/Program.cs` — Application entry point
-- `JogoDaVelha/JogoDaVelha/FrmInicial.cs` — Game logic & win-condition detection
-- `JogoDaVelha/JogoDaVelha/FrmInicial.Designer.cs` — UI control definitions
-- `JogoDaVelha/JogoDaVelha/JogoDaVelha.csproj` — .NET 4.8 project configuration
-
-#### How to Run
-```bash
-# Prerequisites: Visual Studio 2013+ or msbuild; .NET 4.8 runtime
-
-# From command line:
-cd JogoDaVelha
-msbuild JogoDaVelha.csproj /p:Configuration=Release
-JogoDaVelha\bin\Release\JogoDaVelha.exe
-
-# Or open in Visual Studio:
-# 1. Open JogoDaVelha/JogoDaVelha.sln
-# 2. Build → Build Solution (Ctrl+Shift+B)
-# 3. Debug → Start (F5)
-```
+Preservá-lo exatamente como foi criado é uma forma de honrar a minha evolução, lembrando de onde saí e do esforço investido lá em 2014 para dar meus primeiros passos na programação.
 
 ---
 
-## 🎓 Why Preserve Legacy Projects?
+## 🇺🇸 English
 
-1. **Technical History** - Shows evolution and learning journey
-2. **Unique Perspective** - Built without AI assistance
-3. **Raw Creativity** - Creative solutions developed without modern tools
-4. **Era Documentation** - Captures development techniques and practices from the 2000s-2010s
+### 📜 About the Project
 
----
+This is a classic **Tic-Tac-Toe game in C#**, originaly developed back in **2014** using **.NET Framework 3.5**.
 
-## 💡 Contributing (Memories)
+I recently recovered this lost code from an old flash drive and had to preserve it. It marks a huge milestone in my journey as a developer: it was my very first game, built **100% on my own**, without checking documentation, forums, or AI tools. It took days and sleepless nights dedicated entirely to figuring out the logic, tweaking the UI, and getting it to work through pure grit.
 
-If you remember:
-- Additional context about these projects
-- Challenges I didn't mention
-- Impact these projects had
-
-Open an **Issue** or **Discussion** to share your thoughts!
+While the code is simple, raw, and reflects my beginner stage, **it works perfectly end-to-end**. Preserving it exactly as it was written is a way to honor my growth and remember where it all started back in 2014.
 
 ---
 
-## 📅 Timeline
+## 🛠️ Tecnologias / Tech Stack
 
-```
-2006-2008: [Early Projects]
-2008-2010: [Consolidation Era]
-2010-2012: [More Complex Projects]
-2012-2016: [Final Projects of This Era]
-```
-
----
-
-## ⚠️ Important Note
-
-These projects:
-- ✅ Represent an important moment in technology history
-- ✅ Demonstrate creativity and problem-solving
-- ❌ Don't necessarily follow modern best practices
-- ❌ May contain "legacy code" (as expected)
-- ❌ Are not examples to be copied in production today
-
----
-
-**Last Updated:** 2026
-**Developer:** [@rdgaz](https://github.com/rdgaz)
-
----
-
-*"Old code isn't bad. It's a bridge between ignorance and wisdom."* 🌉
+* **Language:** C#
+* **Framework:** .NET Framework 3.5
+* **UI:** Windows Forms (WinForms)
+* **Year:** 2014
