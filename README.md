@@ -25,31 +25,47 @@ Each project includes:
 
 ## 📂 Projects
 
-### [Add your projects here]
+### 🎮 Tic-Tac-Toe / Jogo da Velha (Early 2010s)
 
-Suggested format per project:
+**Period:** Early development era
+**Tech Stack:** C# • .NET Framework • Windows Forms (WinForms)
+**Status:** Complete & Preserved
+**Location:** `/JogoDaVelha/`
 
-```
-## Project Name (Year)
+#### Description
+A fully functional Tic-Tac-Toe game built in C# using Windows Forms. This project was developed 100% from scratch with zero documentation lookups, no AI assistance, and no external code references—only manual problem-solving and debugging. The game features a complete 3×3 button grid UI, turn-based X/O gameplay, and hand-coded win-condition detection for all 8 possible winning lines.
 
-**Period:** [start date] - [end date]
-**Tech Stack:** [technologies used]
-**Status:** [Complete/In Development/Archived]
+#### Technical Challenges
+- **Win-condition algorithm:** Manually coded all 8 line checks (3 horizontal, 3 vertical, 2 diagonal) without loops or board abstractions
+- **UI/Logic coupling:** Learned early-stage WinForms patterns with tightly coupled game state and button controls
+- **Event handling:** Hours of hands-on debugging to get button click events, state switching, and UI updates working correctly
+- **Application lifecycle:** Implemented game reset via `Application.Restart()` for new games and draw detection
 
-### Description
-[Brief description of what the project did]
+#### Key Learnings
+- **Problem-solving from first principles:** Built game logic without referencing existing implementations
+- **Trial-by-fire debugging:** Raw hands-on experience with .NET event model and UI responsiveness
+- **Design simplicity vs. maintainability:** Direct button control approach works but showed early lessons in separation of concerns
+- **Pure logic under pressure:** Win-detection logic solved 100% independently, demonstrating grit and persistence
 
-### Technical Challenges
-- Challenge 1
-- Challenge 2
-- Challenge 3
+#### Files
+- `JogoDaVelha/JogoDaVelha/Program.cs` — Application entry point
+- `JogoDaVelha/JogoDaVelha/FrmInicial.cs` — Game logic & win-condition detection
+- `JogoDaVelha/JogoDaVelha/FrmInicial.Designer.cs` — UI control definitions
+- `JogoDaVelha/JogoDaVelha/JogoDaVelha.csproj` — .NET 4.8 project configuration
 
-### Files
-- [Link or reference to files/code]
+#### How to Run
+```bash
+# Prerequisites: Visual Studio 2013+ or msbuild; .NET 4.8 runtime
 
-### Key Learnings
-- Learning 1
-- Learning 2
+# From command line:
+cd JogoDaVelha
+msbuild JogoDaVelha.csproj /p:Configuration=Release
+JogoDaVelha\bin\Release\JogoDaVelha.exe
+
+# Or open in Visual Studio:
+# 1. Open JogoDaVelha/JogoDaVelha.sln
+# 2. Build → Build Solution (Ctrl+Shift+B)
+# 3. Debug → Start (F5)
 ```
 
 ---
