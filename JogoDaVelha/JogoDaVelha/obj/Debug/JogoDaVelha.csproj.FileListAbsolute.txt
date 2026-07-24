@@ -1,0 +1,46 @@
+c:\users\rdg\documents\visual studio 2013\Projects\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+c:\users\rdg\documents\visual studio 2013\Projects\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+c:\users\rdg\documents\visual studio 2013\Projects\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+c:\users\rdg\documents\visual studio 2013\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojResolveAssemblyReference.cache
+c:\users\rdg\documents\visual studio 2013\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Form1.resources
+c:\users\rdg\documents\visual studio 2013\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+c:\users\rdg\documents\visual studio 2013\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.Cache
+c:\users\rdg\documents\visual studio 2013\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+c:\users\rdg\documents\visual studio 2013\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+C:\Users\RDG\OneDrive\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Users\RDG\OneDrive\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\RDG\OneDrive\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+C:\Users\RDG\OneDrive\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\RDG\OneDrive\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\RDG\OneDrive\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojResolveAssemblyReference.cache
+C:\Users\RDG\OneDrive\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Form1.resources
+C:\Users\RDG\OneDrive\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+C:\Users\RDG\OneDrive\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.Cache
+C:\Users\r.souza\Desktop\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Users\r.souza\Desktop\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\r.souza\Desktop\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+C:\Users\r.souza\Desktop\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\r.souza\Desktop\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\r.souza\Desktop\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojResolveAssemblyReference.cache
+C:\Users\r.souza\Desktop\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Form1.resources
+C:\Users\r.souza\Desktop\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+C:\Users\r.souza\Desktop\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.Cache
+C:\Users\r.souza\OneDrive\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Users\r.souza\OneDrive\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\r.souza\OneDrive\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+C:\Users\r.souza\OneDrive\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\r.souza\OneDrive\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\r.souza\OneDrive\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojResolveAssemblyReference.cache
+C:\Users\r.souza\OneDrive\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Form1.resources
+C:\Users\r.souza\OneDrive\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+C:\Users\r.souza\OneDrive\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.Cache
+C:\Git\C#_vbs\HerancaHtml\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.AssemblyReference.cache
+C:\Git\C#_vbs\HerancaHtml\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Git\C#_vbs\HerancaHtml\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+C:\Git\C#_vbs\HerancaHtml\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Git\C#_vbs\HerancaHtml\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Git\C#_vbs\HerancaHtml\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Git\C#_vbs\HerancaHtml\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+C:\Git\C#_vbs\HerancaHtml\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+C:\Git\C#_vbs\HerancaHtml\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Git\C#_vbs\HerancaHtml\Projetos\C#_vbs\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.FrmInicial.resources
