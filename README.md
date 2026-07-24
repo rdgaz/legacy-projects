@@ -1,3 +1,9 @@
+Bah, tchê! Essa história de criar ferramentas híbridas em C# que geravam scripts `.bat` em tempo de execução para contornar limitações e automatizar a vida da equipe é a pura essência de quem gosta de resolver problemas de verdade. Saber que algumas dessas ferramentas continuam rodando até hoje na empresa é motivo de muito orgulho!
+
+Aqui está a versão do **`README.md`** principal atualizada com essa tua motivação, o contexto da automação de rotinas e o uso de sistemas híbridos C# + `.bat`:
+
+---
+
 # 🏛️ Legacy Projects — Acervo Pessoal (2013 – 2019)
 
 ---
@@ -8,7 +14,11 @@
 
 Este repositório foi criado com o propósito de preservar e expor **projetos antigos desenvolvidos entre 2013 e 2019**, resgatados de um pendrive antigo.
 
-Mais do que simples códigos legados, guardar estes projetos é uma forma de registrar e relembrar **como programávamos e pensávamos na época**. Nesses anos, cada pequeno avanço era um enorme desafio: não havia IA para gerar soluções prontas e a documentação nem sempre era direta. Resolver um único *bug* exigia abrir dezenas de abas no navegador, garimpar fóruns e passar noites em claro testando linha por linha até o código funcionar na raça.
+Sempre adorei — e ainda gosto muito — de criar ferramentas para automatizar rotinas e agilizar tarefas do dia a dia. Na época, as empresas enfrentavam muitos gargalos operacionais no suporte, na configuração de ambientes de clientes e no provisionamento de máquinas para colaboradores. Para resolver isso, desenvolvi diversos utilitários internos; uma satisfação enorme é saber que **algumas dessas ferramentas continuam em uso até hoje**.
+
+Uma das estratégias que eu mais utilizava era a criação de **sistemas híbridos em C#**: a aplicação em C# gerava e executava arquivos `.bat` (e scripts auxiliares) em tempo de execução. Essa era uma solução muito comum e eficiente na época para manipular configurações do Windows em máquinas de clientes e da empresa com total flexibilidade, contornando gargalos de permissões, segurança e bloqueios de antivírus.
+
+Mais do que simples códigos legados, guardar estes projetos é uma forma de registrar como pensávamos e resolvíamos problemas na raça. Nesses anos, não havia IA para gerar soluções prontas e a documentação nem sempre era direta. Resolver um único *bug* exigia abrir dezenas de abas no navegador, garimpar fóruns e passar noites em claro testando linha por linha.
 
 Este acervo marca o início da minha jornada no desenvolvimento de software, documentando minha **iniciação e evolução no C# e no clássico VB6**, honrando as minhas origens e a lógica construída ao longo dos anos.
 
@@ -31,7 +41,11 @@ Nos meus primeiros projetos, a organização de aplicações desktop (WinForms) 
 
 This repository was created to preserve and showcase **legacy projects developed between 2013 and 2019**, recently recovered from an old flash drive.
 
-More than just old code, preserving these projects is a way to record and remember **how we built software and solved problems back then**. In those days, every small breakthrough was a massive challenge: there were no AI tools to generate quick solutions, and documentation was often scarce. Fixing a single bug meant opening dozens of browser tabs, digging through forums, and spending sleepless nights testing code line by line through pure grit.
+I have always loved creating internal tools to streamline daily tasks and automate workflows. Back then, companies faced significant operational bottlenecks when configuring client environments and setting up machines for employees. To solve these friction points, I built several utilities—and it brings me great satisfaction to know that **some of these tools are still in active use today**.
+
+One of my go-to techniques was building **hybrid C# applications**: the C# application generated and executed custom `.bat` scripts on the fly. This was a very common and practical pattern at the time to interact with Windows operating systems across client and corporate environments smoothly, bypassing antivirus flags, permission hurdles, and security restrictions.
+
+More than just old code, preserving these projects is a way to record how we built software and solved problems through pure grit. In those days, there were no AI tools to generate quick solutions, and documentation was often scarce. Fixing a single bug meant opening dozens of browser tabs, digging through forums, and spending sleepless nights testing code line by line.
 
 This archive captures the beginning of my software development journey, documenting my **early steps and evolution in C# and classic VB6**, honoring my roots and the logic built over the years.
 
